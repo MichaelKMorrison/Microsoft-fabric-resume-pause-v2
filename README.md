@@ -1,5 +1,5 @@
 # Microsoft-fabric-resume-pause-v2
-microsoft-fabric-resume-pause Public Forked from jagdish0909/microsoft-fabric-resume-pause PowerShell script to automate Microsoft Fabric capacity start (resume) and stop (suspend) using Azure Automation Account. Helps optimize costs by pausing unused capacity based on a schedule.
+microsoft-fabric-resume-pause Public Forked from https://github.com/jagdish0909/microsoft-fabric-resume-pause PowerShell script to automate Microsoft Fabric capacity start (resume) and stop (suspend) using Azure Automation Account. Helps optimize costs by pausing unused capacity based on a schedule.
 
 ```powershell
 Param(
